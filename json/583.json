@@ -1,0 +1,37 @@
+{
+  "name": "Helicopter #583",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images/583.png",
+  "edition": 583,
+  "date": 1688423329609,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Military Green"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Stabilizing Blue"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Winter Gear"
+    }
+  ]
+}
