@@ -1,0 +1,37 @@
+{
+  "name": "Helicopter #1040",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images/1040.png",
+  "edition": 1040,
+  "date": 1688423377922,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violaceous"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Tourist Pink"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Speed Pink"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Winter Gear"
+    }
+  ]
+}
