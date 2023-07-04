@@ -1,0 +1,37 @@
+{
+  "name": "Helicopter #960",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images/960.png",
+  "edition": 960,
+  "date": 1688423369253,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Double Violet"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Scientific Red"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Speed Turquoise"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Without Gear"
+    }
+  ]
+}
