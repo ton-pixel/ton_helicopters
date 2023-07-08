@@ -4,7 +4,8 @@
   "image": "https://ton-pixel.github.io/ton_helicopters/images/1.png",
   "edition": 1,
   "date": 1688423268736,
-  "symbol": "Helicopter","theme": {
+  "symbol": "Helicopter",
+  "theme": {
     "main": "#5089FA"
   },
   "seller_fee_basis_points": 1000,
