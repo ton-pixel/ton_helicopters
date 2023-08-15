@@ -1,0 +1,41 @@
+{
+  "name": "Helicopter #553",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images_update/553.png",
+  "edition": 553,
+  "date": 1692026679829,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "One"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Toning 80%"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Green Scientific"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Gear 2"
+    },
+    {
+      "trait_type": "Body Kits",
+      "value": "Minigun"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Without Wing"
+    }
+  ]
+}
