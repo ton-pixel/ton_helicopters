@@ -1,0 +1,41 @@
+{
+  "name": "Helicopter #983",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images_update/983.png",
+  "edition": 983,
+  "date": 1692026729341,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Toning 80%"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Moon Tourist"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Gear 1"
+    },
+    {
+      "trait_type": "Body Kits",
+      "value": "Without Kits"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Without Wing"
+    }
+  ]
+}
