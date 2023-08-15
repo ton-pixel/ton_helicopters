@@ -1,0 +1,41 @@
+{
+  "name": "Helicopter #746",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images_update/746.png",
+  "edition": 746,
+  "date": 1692026702281,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Starry sky"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Toning 80%"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Military"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Without Gear"
+    },
+    {
+      "trait_type": "Body Kits",
+      "value": "Spotlight"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Standard"
+    }
+  ]
+}
