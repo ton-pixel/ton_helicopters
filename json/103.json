@@ -1,0 +1,41 @@
+{
+  "name": "Helicopter #103",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images_update/103.png",
+  "edition": 103,
+  "date": 1692026625234,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snowy mountains"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Toning 99%"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Winter Military"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Gear 1"
+    },
+    {
+      "trait_type": "Body Kits",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Blue acceleration"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Helicopter #158",
+  "description": "TON Helicopter",
+  "image": "https://ton-pixel.github.io/ton_helicopters/images_update/158.png",
+  "edition": 158,
+  "date": 1692026631820,
+  "symbol": "Helicopter",
+  "seller_fee_basis_points": 1000,
+  "external_url": "Helicopter",
+  "collection": "No Name",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Starry sky"
+    },
+    {
+      "trait_type": "Blades",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Window",
+      "value": "Toning 90%"
+    },
+    {
+      "trait_type": "Hull",
+      "value": "Blackberry Tourist"
+    },
+    {
+      "trait_type": "Landing Gear",
+      "value": "Gear 1"
+    },
+    {
+      "trait_type": "Body Kits",
+      "value": "Without Kits"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Standard"
+    }
+  ]
+}
